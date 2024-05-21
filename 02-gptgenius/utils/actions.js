@@ -51,7 +51,7 @@ If you can't find info on exact ${city}, or ${city} does not exist, or it's popu
           content: query,
         },
       ],
-      model: 'qwen-max',
+      model: 'gpt-3.5-turbo',
       temperature: 0,
     });
 
